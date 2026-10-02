@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataPro-M
 - 👀 I’m interested in Data science, machine learning and image processing
-- 🌱 I’m currently learning NLP
+-
 
 
 <!---
